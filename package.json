@@ -1,0 +1,13 @@
+{
+  "name": "rabbitmq-poc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/prachaya-orr/rabbitmq-poc.git",
+  "author": "Prachaya Orraeiam <prachaya.or@bdms.co.th>",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "mysql": "^2.18.1",
+    "uuid": "^9.0.1"
+  }
+}
